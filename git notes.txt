@@ -1,0 +1,6 @@
+git pull = git fetch +git merge
+
+
+TO remove git from folder/project
+
+rm -R .git/
